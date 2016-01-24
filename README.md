@@ -12,6 +12,9 @@
 
 <li>There is no  real email  databse  with cheap price.</ul>
 
+#<h2><b><i>Quality versus  Quantity</b></i></h2>
+
+![images 1](https://cloud.githubusercontent.com/assets/16865233/12537313/8e5ddc8c-c2c4-11e5-9142-a20293b67695.png)
 
 
  
