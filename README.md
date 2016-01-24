@@ -17,7 +17,7 @@
 ![images 1](https://cloud.githubusercontent.com/assets/16865233/12537313/8e5ddc8c-c2c4-11e5-9142-a20293b67695.png)
 
 <pre><code>You don't really expect   that if you  buy a  database with contacts  such  as  office@ or  contact@ ,
-you have made  a  good  acquisition.</code></pred>
+you have made  a  good  acquisition.</code></pre>
 
 <pre><code>
 You  possible  have imagined  that  behind  office@ or  contact@ you  would  find something  like   :
