@@ -2,5 +2,13 @@
 # 
 <h2><center>Vipdatabase</center></h2>
 <b><center>Valuable information is  rare  and costly !</center></b>
+<b><i> Why is this  database so  spceial and   why do buy  from  us ?(Instead  of  FAQ):</i></b>
+<ul>
+<li> Reason 1
+
+<li> Reason 2
+<li> Reason 3
+
+
 
  
