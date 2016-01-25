@@ -39,7 +39,7 @@ vast majority of  ourc recors  are tested  using  2 methods : validation and pin
 You shouls  also consider that we dont  realy know  if the  persons  behind  our record  are  dead , 
 fired  or retired.
 </code></pre>
-<p align="center">
-![quantity-183sood](https://cloud.githubusercontent.com/assets/16865233/12546088/166c29c2-c350-11e5-96ab-83b331deaaa0.jpg)
-</p>
+ 
+                    ![quantity-183sood](https://cloud.githubusercontent.com/assets/16865233/12546088/166c29c2-c350-11e5-96ab-83b331deaaa0.jpg)
+ 
  
