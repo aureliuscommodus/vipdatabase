@@ -13,6 +13,7 @@
 
 <li>There is no  real email  databse  with cheap price.
 <li>Q:How was the elements  collected for this database?Answer:The elements  for this database  where collected  using legal  open source software and  personal software.</li>
+<li>Q: I searched  on internet and I found  that there are some databases where elements  are grouped  by specific targets or different domains  of activities.Is this  database offering same thing?Aanwer : No this  database does not  offer such things.If , after you read  all of this  you continue  to have  the same  questions you should probably search  what you are looking for somewhere else and  it is bett for  you  to  press  the next  exit:<a href="https://www.google.ro/#q=why+not+to+buy+a+database"><b>EXIT  FAST</b></a></li>
 </ul>
 
 #<h2><b><i>Quality versus  Quantity</b></i></h2>
