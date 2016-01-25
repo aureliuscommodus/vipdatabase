@@ -50,7 +50,7 @@ fired  or retired.
 <p><b><pre><code>Measure of information gain explanation :</code></pre></b>You have  cardinality of entities  defined  as in the following  suggestive example wich  gives you   a feeling of information gain :<pre><code>
 
 cardinality(entity) := count(elem  foreach elem in entity) 
-IF cardinality(entity)>3:
+IF cardinality(entity)<=3:
    information_gain(entity):=0
    else:
        information_gain(entity)=cardinality(entity)
