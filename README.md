@@ -11,16 +11,18 @@
 
 <li> Valuable  information  is not  obtained  with  a toll like  spoiled kids  and   intelectual  thieves .There is no magical tool  you cand  download  from internet use click , next   , ok  and problem  is  solved.
 
-<li>There is no  real email  databse  with cheap price.</ul>
+<li>There is no  real email  databse  with cheap price.
+<li>Q:How was the elements  collected for this database?Answer:The elements  for this database  where collected  using legal  open source software and  personal software.</li>
+</ul>
 
 #<h2><b><i>Quality versus  Quantity</b></i></h2>
 
 ![images 1](https://cloud.githubusercontent.com/assets/16865233/12537313/8e5ddc8c-c2c4-11e5-9142-a20293b67695.png)
  
-<pre><code>1)You don't really expect   that if you  buy a  database with billions of contacts 
+<pre><code>1)You don't realy expect   that if you  buy a  database with billions of contacts 
 such  as  office@ or  contact@ 
 you have made  a  good  acquisition.
-You buy and what?
+You buy a huge  database with trash and what?
 </code></pre>
 
 <pre><code>
