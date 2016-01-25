@@ -43,4 +43,9 @@ fired  or retired.
  
 #![quantity-183sood](https://cloud.githubusercontent.com/assets/16865233/12546088/166c29c2-c350-11e5-96ab-83b331deaaa0.jpg)
  
-<h2><b><i>><h2>Graphs  for  proof !</b></i></h2>
+#<h2><b><i><h2>Graphs  for  proof !</b></i></h2>
+
+<p>The follwing plots will show  you  the distribution of  the valuable  information  versus  trah information  that you are  retrieving  from other  databases.</p
+<p>The first  graph will be  a  boxplot  where  you  could see   the exact  proportion of  the categorical mesaures of information  gain .The second one will  be   plot  with heat  map  stile  where  it wil be obvious the  heat  convergence of information  gain</p>
+<p><b>Measure of information gain explanation </b>: You have  cardinality of entities  defined  as   in the following  suggestive example : <b>cardinality(entity) := count(elem  foreach elem in entity).</b></p>
+
