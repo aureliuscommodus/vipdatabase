@@ -2,7 +2,7 @@
 # ![images](https://cloud.githubusercontent.com/assets/16865233/12537074/2634a316-c2bf-11e5-9ec1-ce24824f4f14.png)
 # 
 <h2><center>Vipdatabase</center></h2>
-<b><center><i>><h2>Valuable information is  rare  and costly !</center></b></i></h2>
+<b><i>><h2>Valuable information is  rare  and costly !</b></i></h2>
 <b><i> Why is this  database so  spceial and   why do buy  from  us ?(Instead  of  <s>FAQ</s>):</i></b>
 <ul>
 <li> Valuable  information is spare.Hard  to  get.  Spoiled kids  will never   get  you  valuable  information.
@@ -43,4 +43,4 @@ fired  or retired.
  
 #![quantity-183sood](https://cloud.githubusercontent.com/assets/16865233/12546088/166c29c2-c350-11e5-96ab-83b331deaaa0.jpg)
  
-<b><center><i>><h2>                         Graphs  for  proof !</center></b></i></h2>
+<b><i>><h2>Graphs  for  proof !</b></i></h2>
