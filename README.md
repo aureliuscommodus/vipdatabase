@@ -47,5 +47,5 @@ fired  or retired.
 
 <p>The follwing plots will show  you  the distribution of  the valuable  information  versus  trah information  that you are  retrieving  from other  databases.</p
 <p>The first  graph will be  a  boxplot  where  you  could see   the exact  proportion of  the categorical mesaures of information  gain .The second one will  be   plot  with heat  map  stile  where  it wil be obvious the  heat  convergence of information  gain</p>
-<p><b><pre><code>Measure of information gain explanation</code></pred></b>: You have  cardinality of entities  defined  as   in the following  suggestive example : <b>cardinality(entity) := count(elem  foreach elem in entity).</b></p>
+<p><b><pre><code>Measure of information gain explanation</code></pre></b>: You have  cardinality of entities  defined  as   in the following  suggestive example : <b>cardinality(entity) := count(elem  foreach elem in entity).</b></p>
 
