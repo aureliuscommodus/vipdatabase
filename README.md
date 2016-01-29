@@ -3,17 +3,17 @@
 # 
 <h2><center>Vipdatabase</center></h2>
 <b><i><h2>Valuable information is  rare  and costly !</b></i></h2>
-<b><i> Why is this  database so  spceial and   why do buy  from  us ?(Instead  of  <s>FAQ</s>):</i></b>
+<b><i> Why is this  database so  special and   why to buy  from  us ?(Instead  of  <s>FAQ</s>):</i></b>
 <ul>
-<li> Valuable  information is spare.Hard  to  get.  Spoiled kids  will never   get  you  valuable  information.
+<li> Valuable  information is sparse.Hard  to  get.  Spoiled kids  will never   get  you  valuable  information.
 
 <li> Spoiled  kids  and intelectual  thieves will make fancy  web pages  and will use   nice looking(with ears)  speech in order  to sell  you  information  with no value .You will  found out that  you  threw money without  no  informational  gain.
 
-<li> Valuable  information  is not  obtained  with  a toll like  spoiled kids  and   intelectual  thieves .There is no magical tool  you cand  download  from internet use click , next   , ok  and problem  is  solved.
+<li> Valuable  information  is not  obtained  with  a toll like  spoiled kids  and   intelectual  thieves use .There is no magical tool  you cand  download  from internet using click , next   , ok  and problem  is  solved.
 
 <li>There is no  real email  databse  with cheap price.
 <li>Q:How was the elements  collected for this database?Answer:The elements  for this database  where collected  using legal  open source software and  personal software.</li>
-<li>Q: I searched  on internet and I found  that there are some databases where elements  are grouped  by specific targets or different domains  of activities.Is this  database offering same thing?Aanwer : No this  database does not  offer such things.If , after you read  all of this  you continue  to have  the same  questions you should probably search  what you are looking for somewhere else and  it is bett for  you  to  press  the next  exit : <a href="https://www.google.ro/#q=why+not+to+buy+a+database"><b><u> Fast Exit</u> </b></a></li>
+<li>Q: I searched  on internet and I found  that there are some databases where elements  are grouped  by specific targets or different domains  of activities.Is this  database offering same thing?Answer : No this  database does not  offer such things.If , after you read  all of this  you continue  to have  the same  questions you should probably search  what you are looking for somewhere else and  it is better for  you  to  press  the next  exit : <a href="https://www.google.ro/#q=why+not+to+buy+a+database"><b><u> Fast Exit</u> </b></a></li>
 </ul>
 
 #<h2><b><i>Quality versus  Quantity</b></i></h2>
@@ -34,10 +34,8 @@ or:
 </code></pre>
 
 <pre><code>
-This  database is not offering billions of  records  with zero value , one  reason for that  is  the 
-vast majority of  ourc recors  are tested  using  2 methods : validation and ping.
-You shouls  also consider that we dont  realy know  if the  persons  behind  our record  are  dead , 
-fired  or retired.
+ 
+ 
 </code></pre>
  
  
