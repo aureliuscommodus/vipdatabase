@@ -53,3 +53,5 @@ IF cardinality(entity)<=3:
    else:
        information_gain(entity)=cardinality(entity)
        </code></pre>
+![figure_3](https://cloud.githubusercontent.com/assets/16865233/12673876/377b0abc-c688-11e5-98ad-35abad14ee45.png)
+![figure_1](https://cloud.githubusercontent.com/assets/16865233/12673880/3de823ee-c688-11e5-86c9-f77ef1b718b6.png)
