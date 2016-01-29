@@ -34,6 +34,13 @@ or:
 </code></pre>
 
 <pre><code>
+ What  are you going  to fin in  it?
+ -Usual office@ or contact @  that  you will find   also in other  database.
+ -Adresses with high information  gain  wich  you see are rare  in the distribution .
+ Example :
+ For a particular bank  you are  not  getting only office  and  contact but  range of mails:
+ htttp://brd.ro	{'investor@brd.ro', 'sgl.asset@brd.ro', 'ramona.scintei@brd.ro', 'ciprian.mogos@brd.ro', 'cm@brd.ro', 'vocalis@brd.ro', 'eurobrd@brd.ro', 'depositary@brd.ro', 'irina.gorodea@brd.ro', 'comunicare@brd.ro', 'office.brdasigurarideviata@brd.ro', 'recrutare@brd.ro', 'mybrdcontact@brd.ro', 'sondaj@brd.ro', 'office.brdpensii@brd.ro', 'contact.brdf@brd.ro', 'client.brdpensii@brd.ro', 'mircea.tomescu@brd.ro', 'liliana.ionitescu@brd.ro', 'ovidiu.muresan@brd.ro', 'laura.madan@brd.ro', 'licitatii@brd.ro', 'brd.sogelease@brd.ro', 'communication@brd.ro', 'brd@brd.ro', 'webmaster.brd@brd.ro', 'creditonline@brd.ro', 'recuperare.brdf@brd.ro', 'cluj.sogelease@brd.ro', 'simona.verinica@brd.ro'}
+
  
  
 </code></pre>
